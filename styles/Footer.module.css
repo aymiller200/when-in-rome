@@ -1,0 +1,15 @@
+.footer{
+width: 100%;
+position: fixed;
+display: flex;
+justify-content: center;
+bottom: 0;
+ 
+}
+
+.text{
+  position: relative;
+  font-size: medium;
+  font-family: 'Bebas Neue', cursive;
+  color: rgba(0, 0, 0, 0.575);
+}

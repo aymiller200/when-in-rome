@@ -1,0 +1,14 @@
+.text{
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+  width: 80%;
+  padding: 10px;
+}
+
+.about {
+  font-family: 'Bebas Neue',cursive;
+  font-size:x-large;
+  letter-spacing: 0.5px;
+  color: rgba(0, 0, 0, 0.781);
+}

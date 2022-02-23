@@ -1,0 +1,37 @@
+.title{
+  display: flex;
+  justify-content: center;
+  font-family: 'Bebas Neue',cursive;
+  font-size:xx-large;
+  padding-bottom: 20px;
+}
+
+.resource{
+  display: flex;
+  justify-content: space-around;
+  margin: auto;
+  width: 50%;
+  font-family: 'Bebas Neue',cursive;
+  font-size:x-large;
+  letter-spacing: 2px;
+}
+
+.item{
+  display: flex;
+  flex-direction: row;
+  color: white;
+  background-color: rgba(160, 0, 0, 0.774);
+  text-decoration: none;
+  box-shadow: 3px 1px 2px rgba(0, 0, 0, 0.795);
+  height: 100px;
+  width: 100px;
+  padding: 20px;
+ text-align: center;
+ 
+}
+
+.item:hover{
+  color: rgba(160, 0, 0, 0.774);
+  background-color: white;
+  transition: 0.3s ease-in-out;
+}

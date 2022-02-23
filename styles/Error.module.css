@@ -1,0 +1,11 @@
+.error{
+  margin-top: 0;
+  display: flex;
+  justify-content: center;
+}
+
+.text{
+  font-family: 'Bebas Neue', cursive;
+  font-size: large;
+  color: red;
+}
