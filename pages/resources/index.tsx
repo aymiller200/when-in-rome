@@ -12,11 +12,11 @@ const Resources = () => {
   <>
     <h3 className={resourceStyle.title}>Helpful Guides and Interesting History</h3>
     <div className={resourceStyle.resource}>
-      <a href='https://www.britannica.com/topic/Roman-numeral' target='_blank' className={resourceStyle.item}>Theory</a>
+      <a href='https://www.britannica.com/topic/Roman-numeral' target='_blank' rel="noreferrer" className={resourceStyle.item}>Theory</a>
       
-      <a href='https://en.wikipedia.org/wiki/Roman_numerals' target='_blank' className={resourceStyle.item}>History</a>
+      <a href='https://en.wikipedia.org/wiki/Roman_numerals' target='_blank' rel="noreferrer" className={resourceStyle.item}>History</a>
 
-      <a href='https://www.cuemath.com/numbers/roman-numerals/' target='_blank' className={resourceStyle.item}>Guides</a>
+      <a href='https://www.cuemath.com/numbers/roman-numerals/' target='_blank' rel="noreferrer" className={resourceStyle.item}>Guides</a>
     </div>
     </>
   )

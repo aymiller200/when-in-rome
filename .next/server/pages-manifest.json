@@ -1,5 +1,17 @@
 {
+  "/404": "pages/404.html",
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
+  "/api/conversionToNum": "pages/api/conversionToNum.js",
+  "/api/conversionToRoman": "pages/api/conversionToRoman.js",
+  "/components/about": "pages/components/about.html",
+  "/components/footer": "pages/components/footer.html",
+  "/components/layout": "pages/components/layout.html",
+  "/components/nav": "pages/components/nav.html",
+  "/components/title": "pages/components/title.html",
+  "/": "pages/index.html",
+  "/numToRome": "pages/numToRome.html",
+  "/resources": "pages/resources.html",
+  "/romeToNum": "pages/romeToNum.html",
   "/_document": "pages/_document.js"
 }
