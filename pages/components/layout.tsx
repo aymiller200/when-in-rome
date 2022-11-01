@@ -1,6 +1,7 @@
 import Head from 'next/head'
+import { FC } from 'react'
 
-const Layout = ({ children }) => {
+const Layout:FC = ({ children }) => {
 
   return (
     <>
